@@ -57,7 +57,7 @@ dependencies:
 #    - modules/grid-axis.js
 #    - modules/broken-axis.js
 #    - modules/pareto.js
-   - modules/boost-canvas.js
+    - modules/boost-canvas.js
 #    - modules/histogram-bellcurve.js
 #    - modules/no-data-to-display.js
 #    - modules/oldie.js
